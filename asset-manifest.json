@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/demo/static/css/main.6dbf084e.chunk.css",
+    "main.js": "/demo/static/js/main.f71efa17.chunk.js",
+    "main.js.map": "/demo/static/js/main.f71efa17.chunk.js.map",
+    "runtime-main.js": "/demo/static/js/runtime-main.1eefdecc.js",
+    "runtime-main.js.map": "/demo/static/js/runtime-main.1eefdecc.js.map",
+    "static/js/2.2c5b3f1d.chunk.js": "/demo/static/js/2.2c5b3f1d.chunk.js",
+    "static/js/2.2c5b3f1d.chunk.js.map": "/demo/static/js/2.2c5b3f1d.chunk.js.map",
+    "index.html": "/demo/index.html",
+    "precache-manifest.1391dd2eb9ad3caf8e43bc7c22cb5711.js": "/demo/precache-manifest.1391dd2eb9ad3caf8e43bc7c22cb5711.js",
+    "service-worker.js": "/demo/service-worker.js",
+    "static/css/main.6dbf084e.chunk.css.map": "/demo/static/css/main.6dbf084e.chunk.css.map",
+    "static/js/2.2c5b3f1d.chunk.js.LICENSE.txt": "/demo/static/js/2.2c5b3f1d.chunk.js.LICENSE.txt",
+    "static/media/bloodPressure.svg": "/demo/static/media/bloodPressure.770b72ff.svg",
+    "static/media/bloodSugar.svg": "/demo/static/media/bloodSugar.dbcb9d25.svg",
+    "static/media/bodyFat.svg": "/demo/static/media/bodyFat.9d8801f3.svg",
+    "static/media/heartOxygen.svg": "/demo/static/media/heartOxygen.614b632d.svg",
+    "static/media/heartRate.svg": "/demo/static/media/heartRate.c22bf753.svg",
+    "static/media/temperature.svg": "/demo/static/media/temperature.b544af77.svg",
+    "static/media/多用户模式.svg": "/demo/static/media/多用户模式.461192fe.svg",
+    "static/media/异常.svg": "/demo/static/media/异常.838a2c90.svg",
+    "static/media/新增用户.svg": "/demo/static/media/新增用户.b47d3c99.svg",
+    "static/media/用户.svg": "/demo/static/media/用户.1d6e0cbe.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1eefdecc.js",
+    "static/js/2.2c5b3f1d.chunk.js",
+    "static/css/main.6dbf084e.chunk.css",
+    "static/js/main.f71efa17.chunk.js"
+  ]
+}
