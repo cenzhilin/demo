@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/demo/static/css/main.6dbf084e.chunk.css",
-    "main.js": "/demo/static/js/main.5cd4d1c2.chunk.js",
-    "main.js.map": "/demo/static/js/main.5cd4d1c2.chunk.js.map",
+    "main.js": "/demo/static/js/main.2bac7b35.chunk.js",
+    "main.js.map": "/demo/static/js/main.2bac7b35.chunk.js.map",
     "runtime-main.js": "/demo/static/js/runtime-main.1eefdecc.js",
     "runtime-main.js.map": "/demo/static/js/runtime-main.1eefdecc.js.map",
-    "static/js/2.76096e89.chunk.js": "/demo/static/js/2.76096e89.chunk.js",
-    "static/js/2.76096e89.chunk.js.map": "/demo/static/js/2.76096e89.chunk.js.map",
+    "static/js/2.02553892.chunk.js": "/demo/static/js/2.02553892.chunk.js",
+    "static/js/2.02553892.chunk.js.map": "/demo/static/js/2.02553892.chunk.js.map",
     "index.html": "/demo/index.html",
-    "precache-manifest.c0b082e2f591c5308aae39a179d23909.js": "/demo/precache-manifest.c0b082e2f591c5308aae39a179d23909.js",
+    "precache-manifest.f92472c77aa08143a58e308711c30fec.js": "/demo/precache-manifest.f92472c77aa08143a58e308711c30fec.js",
     "service-worker.js": "/demo/service-worker.js",
     "static/css/main.6dbf084e.chunk.css.map": "/demo/static/css/main.6dbf084e.chunk.css.map",
-    "static/js/2.76096e89.chunk.js.LICENSE.txt": "/demo/static/js/2.76096e89.chunk.js.LICENSE.txt",
+    "static/js/2.02553892.chunk.js.LICENSE.txt": "/demo/static/js/2.02553892.chunk.js.LICENSE.txt",
     "static/media/bloodPressure.svg": "/demo/static/media/bloodPressure.6a63913b.svg",
     "static/media/bloodSugar.svg": "/demo/static/media/bloodSugar.a9138a4b.svg",
     "static/media/bodyFat.svg": "/demo/static/media/bodyFat.65e3846e.svg",
@@ -25,8 +25,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.1eefdecc.js",
-    "static/js/2.76096e89.chunk.js",
+    "static/js/2.02553892.chunk.js",
     "static/css/main.6dbf084e.chunk.css",
-    "static/js/main.5cd4d1c2.chunk.js"
+    "static/js/main.2bac7b35.chunk.js"
   ]
 }
